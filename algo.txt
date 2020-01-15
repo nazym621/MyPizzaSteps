@@ -5,3 +5,4 @@
 5. wait for pizza 
 6. receive the pizza
 7. pay for the pizza
+8. eat pizza
