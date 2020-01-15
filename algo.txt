@@ -6,3 +6,4 @@
 6. receive the pizza
 7. pay for the pizza
 8. eat pizza
+9. clean up
